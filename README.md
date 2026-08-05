@@ -42,5 +42,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ring Therapeutics is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/ring-therapeutics_stock/
+Ring Therapeutics is a Cambridge, Massachusetts biotechnology company founded by Flagship Pioneering that
+develops targeted vector conjugate medicines built on the human commensal virome. Its Anellogy platform
+harnesses anelloviruses — commensal viruses that co-exist with the human immune system — to generate gene
+delivery vectors with tissue-specific tropism and the potential to be redosed.
+
+**No API surface.** Ring Therapeutics is a therapeutics developer, not a software provider. Contract
+discovery on 2026-08-05 probed the corporate host for OpenAPI, Swagger, GraphQL, MCP, `llms.txt`, the
+`/.well-known/` discovery surface and both A2A agent-card paths — every one returned 404 from the
+WordPress marketing site. There is no developer portal, no documentation, no SDK and no public API.
+
+- Website — https://ringtx.com/
+- Platform (Anellogy) — https://ringtx.com/platform/
+- Science + publications — https://ringtx.com/science/publications/
+- News — https://ringtx.com/news/
+- GitHub — https://github.com/ring-therapeutics (one public research repo, `anellome_paper`)

@@ -1,0 +1,43 @@
+# Ring Therapeutics
+
+> Ring Therapeutics is a Cambridge, Massachusetts biotechnology company founded by Flagship Pioneering that develops targeted vector conjugate medicines built on the human commensal virome. Its Anellogy platform harnesses anelloviruses — commensal viruses that co-exist with the human immune system — to generate gene delivery vectors with tissue-specific tropism and the potential to be redosed.
+
+Ring Therapeutics publishes no public API, developer portal, SDK or machine-readable specification.
+Contract discovery on 2026-08-05 probed the corporate host for OpenAPI, Swagger, GraphQL, MCP,
+`/llms.txt`, the `/.well-known/` discovery surface and both A2A agent-card paths; all returned 404.
+The links below are the company's public human-readable surface.
+
+## Company
+
+- [Ring Therapeutics](https://ringtx.com/): Corporate site and homepage.
+- [About](https://ringtx.com/about/): Company overview, "A Flagship Pioneering Company", Cambridge, MA.
+- [Origins](https://ringtx.com/about/origins/): How the company and the commensal-virome thesis began.
+- [Leadership](https://ringtx.com/about/leadership/): Executive and scientific leadership.
+- [Culture](https://ringtx.com/culture/): Company culture.
+- [Open positions](https://ringtx.com/culture/open-positions/): Careers.
+- [Contact](https://ringtx.com/contact/): Corporate contact form.
+
+## Science
+
+- [Platform](https://ringtx.com/platform/): The Anellogy anellovirus vector platform.
+- [Science](https://ringtx.com/science/): Scientific approach and pipeline.
+- [Publications](https://ringtx.com/science/publications/): Peer-reviewed publications list.
+
+## News
+
+- [News](https://ringtx.com/news/): Press releases and company announcements.
+
+## Code
+
+- [github.com/ring-therapeutics](https://github.com/ring-therapeutics): Company GitHub organization; one public repository.
+- [anellome_paper](https://github.com/ring-therapeutics/anellome_paper): Jupyter notebooks exploring anellovirus diversity in a longitudinal blood-transfusion cohort (research code, not an API client).
+
+## Legal
+
+- [Terms of use](https://ringtx.com/terms-of-use/)
+- [Privacy policy](https://ringtx.com/privacy-policy/)
+
+## API Evangelist
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/ring-therapeutics/refs/heads/main/apis.yml): The APIs.json index for this profile.
+- [Domain security](https://raw.githubusercontent.com/api-evangelist/ring-therapeutics/refs/heads/main/security/ring-therapeutics-domain-security.yml): Probed TLS/HSTS/DNSSEC/CAA/SPF/DMARC posture for ringtx.com.
