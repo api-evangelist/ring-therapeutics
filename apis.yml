@@ -10,6 +10,17 @@ description: 'Ring Therapeutics is a Cambridge, Massachusetts biotechnology comp
   B and C financings. The company is a therapeutics developer rather than a software
   provider: it publishes a corporate site, a press release stream and a scientific
   publications list, and operates no public API, developer portal or SDK.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://ringtx.com/wp-content/uploads/2022/02/Ring-Dark.svg
 url: https://raw.githubusercontent.com/api-evangelist/ring-therapeutics/refs/heads/main/apis.yml
 x-type: company
