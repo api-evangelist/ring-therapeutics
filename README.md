@@ -64,18 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ring Therapeutics is a Cambridge, Massachusetts biotechnology company founded by Flagship Pioneering that
-develops targeted vector conjugate medicines built on the human commensal virome. Its Anellogy platform
-harnesses anelloviruses — commensal viruses that co-exist with the human immune system — to generate gene
-delivery vectors with tissue-specific tropism and the potential to be redosed.
+Ring Therapeutics is a Cambridge, Massachusetts biotechnology company founded by Flagship Pioneering that develops targeted vector conjugate medicines built on the human commensal virome. Its Anellogy platform harnesses anelloviruses — commensal viruses that co-exist with the human immune system — to generate gene delivery vectors with tissue-specific tropism and the potential to be redosed. Ring has sequenced thousands of anelloviruses into what it describes as the largest anellovirus database assembled to date, and has raised more than $250 million across Series A, B and C financings. The company is a therapeutics developer rather than a software provider: it publishes a corporate site, a press release stream and a scientific publications list, and operates no public API, developer portal or SDK.
 
-**No API surface.** Ring Therapeutics is a therapeutics developer, not a software provider. Contract
-discovery on 2026-08-05 probed the corporate host for OpenAPI, Swagger, GraphQL, MCP, `llms.txt`, the
-`/.well-known/` discovery surface and both A2A agent-card paths — every one returned 404 from the
-WordPress marketing site. There is no developer portal, no documentation, no SDK and no public API.
+**Areas:** Company · Biotechnology · Gene Therapy · Life Sciences · Pharmaceuticals · Research · Flagship Pioneering
 
-- Website — https://ringtx.com/
-- Platform (Anellogy) — https://ringtx.com/platform/
-- Science + publications — https://ringtx.com/science/publications/
-- News — https://ringtx.com/news/
-- GitHub — https://github.com/ring-therapeutics (one public research repo, `anellome_paper`)
+## Ring Therapeutics on APIs.io
+
+Everything profiled for Ring Therapeutics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ring-therapeutics/](https://apis.io/providers/ring-therapeutics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ring Therapeutics Domain Security](https://apis.io/security/ring-therapeutics/ring-therapeutics-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ringtx.com/)
+- [Blog](https://ringtx.com/news/)
+- [Terms of service](https://ringtx.com/terms-of-use/)
+- [Privacy policy](https://ringtx.com/privacy-policy/)
+- [GitHub](https://github.com/ring-therapeutics)
+
+## API Evangelist rating
+
+**Kin Score 10.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ring-therapeutics/](https://apis.io/providers/ring-therapeutics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ring Therapeutics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ring-therapeutics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
